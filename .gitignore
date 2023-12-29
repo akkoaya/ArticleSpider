@@ -1,0 +1,3 @@
+*.idea
+*.cfg
+**/__pycache__
